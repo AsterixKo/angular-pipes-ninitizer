@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-pipes-ninitizer"
+    }
+  },
+  "defaultProject": "angular-pipes-ninitizer",
+  "cli": {
+    "analytics": false
+  }
 }
